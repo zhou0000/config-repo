@@ -1,3 +1,10 @@
+spring:
+  rabbitmq: # MQ配置
+    host: 192.168.117.128
+    port: 5672
+    username: zhou01
+    password: zhou01
+    virtual-host: /leyou
 girl:
   username: 丽丽
   age: 24
