@@ -7,6 +7,6 @@ spring:
     virtual-host: /leyou
 girl:
   username: 丽丽
-  age: 23
+  age: 24
 aaa: bbb
 
